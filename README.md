@@ -34,18 +34,18 @@ pip3 install  yt_dlp
 cd /sdcard
 ```
 ```bash
-git clone https://github.com/Suprem-TX/Download_IGTA.git
+git clone https://github.com/Suprem-TX/Hub_Scr1pt.git
 ```
 ```bash
-cd Download_IGTA
+cd Hub_Scr1pt
 ```
 ### Cuando descarguemos nuestros vid3os podremos acceder a ellos facilmente
 ## Damos permisos de ejecucion y ejecutamos
 ```bash
-chmod +x Script_Igta.py
+chmod +x HubS-cr1p.py
 ```
 ```bash
-python3 Script_Igta.py
+python3 HubP0rn.py
 ```
 # SUSCRIBETE AL CANAL :D
 
