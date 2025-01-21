@@ -45,7 +45,7 @@ cd Hub_Scr1pt
 chmod +x HubS-cr1p.py
 ```
 ```bash
-python3 HubP0rn.py
+python3 HubS-cr1p.py
 ```
 # SUSCRIBETE AL CANAL :D
 
